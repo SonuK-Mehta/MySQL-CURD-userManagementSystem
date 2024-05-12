@@ -26,11 +26,9 @@ cd node-mysql-user-management-system
 3. Install dependencies:
 npm install
 
-4. Set up the MySQL database by executing the SQL script provided in `database.sql`.
+4. Set up the MySQL database by executing the SQL script provided in `user-schema.sql`.
 
-5. Configure the database connection by editing the `config.js` file and providing your MySQL database credentials.
-
-6. Start the application: npm start
+5. Start the application: npm start
 
 
 ## Usage
