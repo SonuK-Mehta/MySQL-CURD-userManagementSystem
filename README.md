@@ -18,27 +18,6 @@ This project is a simple user management system built using Node.js and MySQL. I
 ## Installation
 
 1. Clone this repository:
-
-# Node MySQL User Management System
-
-This project is a simple user management system built using Node.js and MySQL. It allows you to perform CRUD operations (Create, Read, Update, Delete) on user records stored in a MySQL database.
-
-## Features
-
-- User registration: Register new users with their basic information.
-- User authentication: Authenticate users using email and password.
-- User profile management: Allow users to update their profile information.
-- User deletion: Enable administrators to delete user accounts.
-
-## Requirements
-
-- Node.js
-- MySQL
-- npm (Node Package Manager)
-
-## Installation
-
-1. Clone this repository:
 https://github.com/SonuK-Mehta/MySQL-CURD-userManagementSystem.git
 
 2. Navigate to the project directory:
@@ -52,7 +31,6 @@ npm install
 5. Configure the database connection by editing the `config.js` file and providing your MySQL database credentials.
 
 6. Start the application: npm start
-
 
 
 ## Usage
